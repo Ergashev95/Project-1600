@@ -33,7 +33,7 @@ ul {
 .nav__logo{
     color: #fff;
     font-size: 40px;
-    font-size: 700;
+    font-weight: 700;
 }
 .nav__list {
     display: flex;
@@ -44,7 +44,6 @@ ul {
     color: #fff;
     font-size: 24px;
 }
-
 
 .header__content {
     display: flex;
@@ -57,7 +56,6 @@ ul {
 .title {
     color: #fff;
     font-size: 50px;
-
 }
 .text {
     color: #fff;
